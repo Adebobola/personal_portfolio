@@ -11,7 +11,7 @@ body {
 }
 
 #blogtitle {
-    font-size: 6rem;
+    font-size: 9rem;
 }
 
 @media (min-width: 992px) {
@@ -20,5 +20,5 @@ body {
     }
     #blogdetailtitle {
         font-size: 5rem;
-    }    
+    }
 }
